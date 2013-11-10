@@ -96,3 +96,4 @@ Pivot.js is the work of Robert Jackson and Jonathan Jackson.
 This software is licensed under a modified BSD license.
 
 See LICENSE for more details.
+
